@@ -1,5 +1,8 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)
-<a href="https://solved.ac/profile/opera_tive"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=opera_tive"></a><br>
+<p align="center">![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)</p>
+
+<p align="center">
+  <a href="https://solved.ac/profile/opera_tive"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=opera_tive"></a><br>
+</p>
 <!--
 **Edgar907/Edgar907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
