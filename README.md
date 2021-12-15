@@ -16,7 +16,7 @@
 </p>
 
 ## 📃 Was & ~ing
-- Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager : <br>2015.04 ~ 2019. 03 
+- Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator & Community Manager : <br>2015.04 ~ 2019. 03 
 - Naver Expert(C, C++ Section) : <br>2021.03.09 ~
 
 ## 📃 Problem Solving
