@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white">&nbsp
 </p>
 
-## Was & ~ing
+## 📃 Was & ~ing
 - Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager : <br>2015.04 ~ 2019. 03 
 - Naver Expert(C, C++ Section) : <br>2021.03.09 ~
 
