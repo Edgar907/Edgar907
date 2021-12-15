@@ -1,4 +1,4 @@
-<p align="center">![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)</p>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)
 
 <p align="center">
   <a href="https://solved.ac/profile/opera_tive"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=opera_tive"></a><br>
