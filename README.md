@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Unity-000000?logo=Unity&logoColor=white">&nbsp
 </p>
 
-## 📃 BOJ / Solved.ac
+## 📃 Problem Solving
 
 - BOJ: [opera_tive](https://www.acmicpc.net/user/opera_tive)
 - Solved.ac: [opera_tive](https://solved.ac/profile/opera_tive)
