@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)
-## 👋 About Me
+## 👋 Was & ~ing
 - Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager : <br>2015.04 ~ 2019. 03 
 - Naver Expert(C, C++ Section) : <br>2021.03.09 ~
 
