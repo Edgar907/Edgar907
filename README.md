@@ -1,4 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=TaeHwan%20Hwang&fontAlign=65&fontAlignY=40&color=gradient)
+## 💻 Skills
 
 <h3 align="center">🛠 Tech Stack</h3>
 
