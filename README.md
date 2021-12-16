@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-UE4-000000?logo=UnrealEngine&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=HTML5&logoColor=white">&nbsp
 </p>
 
 ## 📃 Professional Experiences
