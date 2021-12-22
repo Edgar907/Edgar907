@@ -31,4 +31,4 @@
 </p>
 
 <a href="https://github.com/devxb/CommitCombo">
-   <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/>  
+   <img src="http://commitcombo.com/get?user=Edgar907&theme=Cloud-mini" width = "200" height = "auto"/>  
