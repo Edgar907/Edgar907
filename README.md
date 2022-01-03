@@ -29,6 +29,3 @@
 <p align="center">
   <a href="https://solved.ac/profile/opera_tive"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=opera_tive"></a><br>
 </p>
-
-<a href="https://github.com/devxb/CommitCombo">
-   <img src="http://commitcombo.com/get?user=Edgar907&theme=Cloud-mini" width = "200" height = "auto"/>  
