@@ -7,10 +7,10 @@
 <p align="center">Which I've used at least once</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">&nbsp  
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">&nbsp  
+  <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/-C%23-F89B00?logo=Csharp&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white">&nbsp 
   <br>
   <img src="https://img.shields.io/badge/-UE4-000000?logo=UnrealEngine&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/-Unity-2E2627?logo=Unity&logoColor=white">&nbsp
