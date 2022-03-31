@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/-HTML5-FF5733?logo=HTML5&logoColor=white">&nbsp
 </p>
 
-## 📃 Professional Experiences
-- Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator & Community Manager : <br>2015.04 ~ 2019. 03 
-- Naver Expert(C, C++ Section) : <br>2021.03.09 ~
-
 ## 📃 Problem Solving
 
 - BOJ: [opera_tive](https://www.acmicpc.net/user/opera_tive)
